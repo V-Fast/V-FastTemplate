@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "template",
+  "version": "${version}",
+
+  "name": "Template",
+  "description": "This is just a template. If you can read this, then the author might've forgotten the description of the mod.",
+  "authors": [
+    "_Lumaa_"
+  ],
+  "contact": {
+    "homepage": "https://lumination.brebond.com/",
+    "sources": "https://github.com/u-lumaa/lumaa-template",
+    "issues": "https://github.com/u-lumaa/lumaa-template/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/template/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    ]
+  },
+  "mixins": [
+    "template.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  }
+}
