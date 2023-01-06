@@ -20,6 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
+      "com.lumaa.template.TemplateMod"
     ]
   },
   "mixins": [
