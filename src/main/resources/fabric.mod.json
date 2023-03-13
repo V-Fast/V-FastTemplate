@@ -6,12 +6,12 @@
   "name": "Template",
   "description": "This is just a template. If you can read this, then the author might've forgotten the description of the mod.",
   "authors": [
-    "_Lumaa_"
+    "LumaaDev"
   ],
   "contact": {
-    "homepage": "https://lumination.brebond.com/",
-    "sources": "https://github.com/u-lumaa/LumaaTemplate",
-    "issues": "https://github.com/u-lumaa/LumaaTemplate/issues"
+    "homepage": "https://lumaa.brebond.com/",
+    "sources": "https://github.com/lumaa-dev/LumaaTemplate",
+    "issues": "https://github.com/lumaa-dev/LumaaTemplate/issues"
   },
 
   "license": "MIT",
