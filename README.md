@@ -24,3 +24,4 @@ This repository was made for Lumaa to start up a Minecraft [Fabric](https://fabr
 
 ## License
 This mod is under the [MIT License](/LICENSE).
+**This template is under © Lumaa 2023**
