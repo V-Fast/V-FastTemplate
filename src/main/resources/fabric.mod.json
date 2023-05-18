@@ -6,12 +6,13 @@
   "name": "Template",
   "description": "This is just a template. If you can read this, then the author might've forgotten the description of the mod.",
   "authors": [
-    "LumaaDev"
+    "LumaaDev",
+    "tanishisherewithhh"
   ],
   "contact": {
     "homepage": "https://lumaa.brebond.com/",
-    "sources": "https://github.com/lumaa-dev/LumaaTemplate",
-    "issues": "https://github.com/lumaa-dev/LumaaTemplate/issues"
+    "sources": "https://github.com/v-fast/V-FastTemplate",
+    "issues": "https://github.com/v-fast/V-FastTemplate/issues"
   },
 
   "license": "MIT",
@@ -20,7 +21,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.lumaa.template.TemplateMod"
+      "org.vfast.template.TemplateMod"
     ]
   },
   "mixins": [
