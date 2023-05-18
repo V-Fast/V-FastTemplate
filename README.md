@@ -18,5 +18,5 @@ you can change it as you want.
 This repository was made for Lumaa to start up a Minecraft [Fabric](https://fabricmc.net) mod project quickly.
 
 ## License
-This mod is under the [MIT License](/LICENSE).
-**This template is under © Lumaa 2023**
+This mod is under the [MIT License](/LICENSE)\
+**This template is under © V-Fast 2023**

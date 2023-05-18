@@ -22,7 +22,7 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 	
 	// LibuLib - Optional
-	// modImplementation "com.github.lumaa-dev:LibuLib:1.2.1"
+	// modImplementation "com.github.v-fast:LibuLib:1.2.1"
 }
 
 processResources {

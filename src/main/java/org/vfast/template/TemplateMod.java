@@ -1,4 +1,4 @@
-package com.lumaa.template;
+package org.vfast.template;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
