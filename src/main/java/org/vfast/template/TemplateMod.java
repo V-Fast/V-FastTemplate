@@ -5,8 +5,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class TemplateMod implements ModInitializer {
-    public Logger logger = LoggerFactory.getLogger("template");
-    public String ID = "template";
+    public static final Logger logger = LoggerFactory.getLogger("template");
+    public static final String ID = "template";
 
     @Override
     public void onInitialize() {
